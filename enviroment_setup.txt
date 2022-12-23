@@ -1,0 +1,6 @@
+python -m venv <>
+
+./<>/scripts/activate
+
+pip install torch nltk numpy
+
